@@ -12,6 +12,10 @@
     <li> :email: For contacting me Please go to <a href = "#Contact">Contact</a> Section at Last
   </ul>
 </div>
+
+<h2 align = "left">Connect with me:</h2>
+<p align= "left">
+<a href = "https://www.facebook.com/aayush.swodari.39/"><img src= "https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg" width="35" height="35" /></a>  &nbsp;<a href = "https://www.instagram.com/__aayushdn/"><img src= "https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" width="35" height="35" /></a> &nbsp;<a href = "https://twitter.com/Aayushdn"><img src= "https://www.flaticon.com/svg/static/icons/svg/1384/1384065.svg" width="35" height="35" /></a> </p>
  
 
 <div>
