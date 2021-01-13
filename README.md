@@ -43,3 +43,18 @@
     <a href = "https://twitter.com/Aayushdn">Get me on Twitter </a><br>
 </details>
   </div>
+  
+  <div>
+<details>
+  <summary>:zap: GitHub History</summary>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushdn&dummy=123aklsdjf;;;jffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffflsdkjf;askldjfliasjdfpijaslidkjf;akjsdl;fkj;asdjfoiasjdfoajsefkjsdaijfokawjejoskajflkdsjoasdjlkjdsjawoejlisdjaoejwkidjfiasfoajseoifjowiajfoiasj;ejoijfiajwefjaoipfjiosajfojwiosfoisjfoajwoisjaofjaoijpsoiajfoiajsoijfoiajfowaijfoisjaoijfowiajoiefjjaoifjsoijfpaojoajpeoajoaeijwfjoeiajwseofjpaoijfoeajpaoiefjoiaejfpaoewijfoiaejfpaowiefjasoeijfawoeifjawoeijfioejfpaoiwejfoiajwifjaoiwejf" alt="Aayushdn" /></p>
+
+</details>
+</div>
+<div>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushdn&show_icons=true&locale=en&layout=compact&dummy=1234283402938409820394809283409820938409283097502937092834897543982579387459348572394753984578345364987529847503984759847208579384750298452983475387495723984579837495287987349582794875928364398275320958472398579238472430948572394857043298579238475029834759834725098732495870293847582347592837459872034985729387450289374598473205987329487598273495873209847592873495872394857234895743298579238702983749872345lfdknaflslkjdf;skdflakjsd;fkjoijafoejf;sdjaofkjas;dkfjlisdjlvfkjsd;aljvlksjdlfkjna;skdjfijwe;iajflsdja;lkfwiaje;fijaslijfeija;ijsdijfoeijf;aijfwisjefljsljdfliasje;fijawiejf;aowisejfljswao;ije;iojf;ajseoijf;oijesawifj;aiijwfliesjdf;liajefj;saijefiajflisjdliefja;foiejfljesdalfkjeoiajef;oisjefa;oijwoefjsjaifj;disajfoweijlfkja;osiejf;oawijefajswieofjlsijeafeoaj;wseoifjoawisjeofjoasijeofjaowisjef;esdj" alt="Aayushdn" /></p>
+</details>
+</div>
